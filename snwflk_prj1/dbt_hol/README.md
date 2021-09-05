@@ -4,7 +4,16 @@
 
 ![image](https://user-images.githubusercontent.com/39284636/132114182-91b48676-fc78-4219-add4-98b92764516a.png)
 
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/39284636/132114436-e3ea3c3b-8df6-4907-95c2-32ad03df94ce.png)
+
+
+![image](https://user-images.githubusercontent.com/39284636/132114449-0833c254-364c-4675-b45b-66130a6ceac6.png)
+
+
+
+
+
 
 2 Warehouse					dbt_dev_wh						dbt_dev_heavy_wh  
 					dbt_prod_wh						dbt_prod_heavy_wh
