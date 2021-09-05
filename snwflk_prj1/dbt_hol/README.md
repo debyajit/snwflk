@@ -2,7 +2,7 @@ Welcome to your new dbt project!
 
 ### Snowflake project 1 with DBT
 
-Try running the following commands:
+
 2 Warehouse					dbt_dev_wh						dbt_dev_heavy_wh  
 					dbt_prod_wh						dbt_prod_heavy_wh
 											
