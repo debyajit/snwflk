@@ -1,7 +1,10 @@
-Welcome to your new dbt project!
+
 
 ### Snowflake project 1 with DBT
 
+![image](https://user-images.githubusercontent.com/39284636/132114182-91b48676-fc78-4219-add4-98b92764516a.png)
+
+![Uploading image.png…]()
 
 2 Warehouse					dbt_dev_wh						dbt_dev_heavy_wh  
 					dbt_prod_wh						dbt_prod_heavy_wh
@@ -41,4 +44,5 @@ database: knoema_economy_data_atlas
 											
 1 users					dbt_user						
 											
-![Uploading image.png…]()
+
+
