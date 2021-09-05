@@ -1,15 +1,44 @@
 Welcome to your new dbt project!
 
-### Using the starter project
+### Snowflake project 1 with DBT
 
 Try running the following commands:
+2 Warehouse					dbt_dev_wh						dbt_dev_heavy_wh  
+					dbt_prod_wh						dbt_prod_heavy_wh
+											
+											
+											
+2 roles					dbt_dev_role						
+					dbt_prod_role						
+											
+											
+											
+											
+1 users					dbt_user						
+											
+![image](https://user-images.githubusercontent.com/39284636/132114148-054cb15a-2735-48c6-9c5f-77071e3ea632.png)
 - dbt run
 - dbt test
 
+SOURCE	
+database: knoema_economy_data_atlas	
+    schema: economy	
+    tables:	
+      - name: exratescc2018	
+      - name: usindssp2020	
+![image](https://user-images.githubusercontent.com/39284636/132114137-8ca5097a-1b67-4d34-9930-61f25d7f49c8.png)
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+2 Warehouse					dbt_dev_wh						dbt_dev_heavy_wh  
+					dbt_prod_wh						dbt_prod_heavy_wh
+											
+											
+											
+2 roles					dbt_dev_role						
+					dbt_prod_role						
+											
+											
+											
+											
+1 users					dbt_user						
+											
+![Uploading image.png…]()
